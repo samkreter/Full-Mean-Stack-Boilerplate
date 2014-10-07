@@ -1,4 +1,4 @@
-Full-stack-boilerplate
+Full-Mean-Stack-Boilerplate
 ======================
 
-Full stack boiler plate that includes api setup and mongodb set up
+Full Mean stack boiler plate that includes api setup and mongodb set up
